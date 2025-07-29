@@ -48,6 +48,7 @@ SQL-based relational schema:
 SQL code for schema creation and data import provided in:
 - [`Database Schema Creation.sql`](./Database%20Schema%20Creation.sql)
 - [`Data Preparation.sql`](./Data%20Preparation.sql)
+<img width="558" height="405" alt="Screenshot 2025-07-29 at 6 57 54 PM" src="https://github.com/user-attachments/assets/c535214b-6d90-406c-b1e4-98f2ad9fbb06" />
 
 ---
 
